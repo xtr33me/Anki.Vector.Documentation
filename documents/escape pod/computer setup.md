@@ -8,8 +8,8 @@ You should have Chrome Installed.
 ### Windows Computers
 
 If you have a Windows computer, you need some software installed for "mdns".
-If you have iTunes installed, this software is already installed for you and
-you can skip this step.  If not, install bonjour from:
+If you have iTunes installed from the downloadable executable, this software is already installed for you and
+you can skip this step.  If not or you have installed iTunes from the Windows Store (Windows Store version does not install Bonjour), install bonjour from:
 
 * [https://support.apple.com/downloads/bonjour_for_windows](https://support.apple.com/downloads/bonjour_for_windows)
 
